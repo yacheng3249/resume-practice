@@ -224,4 +224,8 @@ ul {
   display: inline-block;
   margin-right: 24px;
 }
+
+.contact-section .icon-list li a:hover {
+  opacity: 0.6;
+}
 /*# sourceMappingURL=style.css.map */
